@@ -1,0 +1,1 @@
+Various simple programming exercises to work my problem solving ability. Mostly in Javascript, but perhaps some other languages too.
