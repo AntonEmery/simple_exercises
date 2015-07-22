@@ -1,3 +1,5 @@
+//Outputs fewest number of coins based on how much change is needed
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
